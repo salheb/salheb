@@ -1,4 +1,4 @@
-# <img width="800" src="https://raw.githubusercontent.com/salheb/salheb/master/img/Foto Canal Youtube DEV Julio.png"/> Julio Nogueira
+# <img width="33" src="https://raw.githubusercontent.com/salheb/salheb/master/img/Foto Canal Youtube DEV Julio.png"/> Julio Nogueira
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/111095_user_icon.png"/> About me
 Lead Software Engineer • Brazilian • Computer Science undergraduate • Social Sciences student
