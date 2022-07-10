@@ -10,7 +10,7 @@ Java • Rust • C# • PHP • CI/CD • Node.JS • Cloud computing
 Family • Study new things every day • Design, architect and code software • Social Sciences • Literature
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/379449_programming_icon.png"/> On my free time I like to
-Party with family and friend • Watch streaming series • Read books • Learn and code with new langs
+Party with family and friends • Watch streaming series • Read books • Learn and code with new langs
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/4417094_link_href_hyperlink_icon.png"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/juliocesarsn)
@@ -19,4 +19,4 @@ Party with family and friend • Watch streaming series • Read books • Learn
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://www.julionogueira.net/cv/)
 <!--[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)-->
 
-Last Edited on: 30/06/2022
+Last Edited on: 10/07/2022
