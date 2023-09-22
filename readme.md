@@ -1,7 +1,7 @@
 # <img width="33" src="https://raw.githubusercontent.com/salheb/salheb/master/img/Foto Canal Youtube DEV Julio.png"/> Julio Nogueira
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/111095_user_icon.png"/> About me
-Lead Software Engineer • Brazilian • Computer Science undergraduate • Social Sciences student
+Software Engineering Manager • Brazilian • Computer Science undergraduate • Social Sciences student
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/115695_magnifying glass_zoom_find_search_icon.png"/> I code/work with these technologies
 Java • Rust • C# • PHP • CI/CD • Node.JS • Cloud computing
