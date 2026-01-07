@@ -1,10 +1,10 @@
 # <img width="33" src="https://raw.githubusercontent.com/salheb/salheb/master/img/Foto Canal Youtube DEV Julio.png"/> Julio Nogueira
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/111095_user_icon.png"/> About me
-Software Engineering Manager • Brazilian • Computer Science undergraduate • Social Sciences student
+Software Engineering • Brazilian • Computer Science undergraduate • Social Sciences student
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/115695_magnifying glass_zoom_find_search_icon.png"/> I code/work with these technologies
-Java • Rust • C# • PHP • CI/CD • Node.JS • Cloud computing
+Kotlin • Kotlin Multi Platform • Java • Rust • C# • PHP • CI/CD • Node.JS • Cloud computing
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/4096575_heart_like_love_icon.png"/> I love
 Family • Study new things every day • Design, architect and code software • Social Sciences • Literature
@@ -19,4 +19,4 @@ Party with family and friends • Watch streaming series • Read books • Lear
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://www.julionogueira.net/cv/)
 <!--[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)-->
 
-Last Edited on: 10/07/2022
+Last Edited on: 07/01/2026
