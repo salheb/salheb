@@ -7,7 +7,7 @@ Software Engineering • Brazilian • Computer Science undergraduate • Social
 Kotlin • Kotlin Multi Platform • Java • Rust • C# • PHP • CI/CD • Node.JS • Cloud computing
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/4096575_heart_like_love_icon.png"/> I love
-Family • Study new things every day • Design, architect and code software • Social Sciences • Literature
+Family • Study new things every day • Architect, design and code software • Social Sciences • Literature
 
 ### <img height="30" src="https://raw.githubusercontent.com/salheb/salheb/master/img/379449_programming_icon.png"/> On my free time I like to
 Party with family and friends • Watch streaming series • Read books • Learn and code with new langs
